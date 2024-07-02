@@ -13,6 +13,7 @@ public class ColNoFixed {
                 System.out.print(arr[row][col] + " ");
             }
             System.out.println();
+            System.out.println("this is new one");
         }
     }
 }
